@@ -4,10 +4,10 @@
   position: relative;
 }
 .beer-slider *,
-.beer-slider:before,
-.beer-slider :before,
 .beer-slider:after,
-.beer-slider :after {
+.beer-slider :after,
+.beer-slider:before,
+.beer-slider :before {
   box-sizing: border-box;
 }
 .beer-slider img,
