@@ -82,8 +82,8 @@
   width: 48px;
   z-index: 2;
 }
-.beer-handle:before,
-.beer-handle:after {
+.beer-handle:after,
+.beer-handle:before {
   border-left: 2px solid;
   border-top: 2px solid;
   content: "";
